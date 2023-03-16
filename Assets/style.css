@@ -1075,23 +1075,23 @@ border-radius: 5px;
 }
 
 .mini{
-    font-size: 10px;
+    font-size: 12px;
 }
 .do-ten{
     font-size: 40px;
     font-weight: bolder;
     color: rgba(253, 195, 8, 1);
 }.do-ten-1{
-    font-size: 35px;
+    font-size: 40px;
     font-weight: bolder;
     
     color: rgba(253, 195, 8, 1);
 }.do-ten-2{
-    font-size: 30px;
+    font-size: 40px;
     font-weight: bolder;
     color: rgba(253, 195, 8, 1);
 }.do-ten-3{
-    font-size: 30px;
+    font-size: 40px;
     font-weight: bolder;
     color: black;
 }
