@@ -1,0 +1,1786 @@
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+#navbarSupportedContent {
+    margin-left: 50px;
+}
+
+#navbarSupportedContent ul li a {
+    margin-left: 25px !important;
+    font: 1em sans-serif;
+
+
+}
+#navbarSupportedContent ul li  #crypto {
+    margin-left: 0px !important;
+    font: 1em sans-serif;
+
+
+}
+#navbarSupportedContent ul li  #crypto-1 {
+    margin-left: 0px !important;
+    font: 1em sans-serif;
+
+
+}
+#navbarSupportedContent ul li  #forex {
+    margin-left: 0px !important;
+    font: 1em sans-serif;
+
+
+}
+#navbarSupportedContent ul li  #trading {
+    margin-left: 0px !important;
+    font: 1em sans-serif;
+
+
+}
+.nav-link {
+
+    color:rgba(200, 200, 200, 1) !important;
+    font-weight: bolder;
+    font-size: 15px !important;
+    
+
+}
+
+.nav-link-active {
+
+    color:rgba(253, 195, 7, 1) !important;
+    font-weight: bolder;
+    padding: 0 10px 20px 0;
+  
+}
+.navbar-bg{
+    background-color: black;
+}
+
+#btn-1{
+   
+    font-size: 12px;
+    border-radius: 10px;
+  padding: 3px 20px 3px 20px ;
+    background-color:rgba(252, 194, 6, 1) ;
+    
+}
+#btn-1:hover{
+    background-color: transparent;
+    border: 1px solid rgba(252, 194, 6, 1) ;
+    color: white;
+}
+#btn-2{
+    background-color: transparent;
+    color: white;
+    font-size: 12px;
+    padding: 3px 20px 3px 20px ;
+    border: 1px solid rgba(252, 194, 6, 1) ;
+    border-radius: 10px;
+}
+#btn-2:hover{
+    background-color:rgba(252, 194, 6, 1) ;
+    color: black;
+
+}
+.size{
+    height: 15px;
+    padding-left: 10px;
+}
+.pace{
+    margin-left: 20px;
+margin-top: 30px;
+}
+.atb{
+    color:rgba(252, 194, 6, 1) ;
+}
+.size-1{
+    height: 20px;
+}
+#pad{
+    padding-left: 30px;
+    margin-top: -18px !important;
+}
+.py-1{
+    margin-left: -30px;
+    font-size: 12px;
+    color: rgba(97, 97, 97, 1);
+    
+}
+.py-1:hover{
+   
+   
+    color: rgba(252, 194, 6, 1);
+}
+#down{
+    margin-top: 30px;
+
+}
+#for{
+    margin-top: -65px;
+}
+#for .form-control{
+width: 90% !important;
+border-radius: 20px 20px 20px 20px;
+border: 2px solid rgba(111, 111, 111, 1);
+background-color: transparent;
+}
+#act{
+    margin-left: -10px;
+}
+/*home*/
+.new-bona{
+    font-weight: bold;
+}
+#back{
+    background-image: url('../Assets/Home page/divio.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+
+.carousel-indicators .active{
+    background-color: #000 !important;
+}
+.carousel-indicators #cio{
+    box-sizing: content-box;
+
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    width: 15px;
+    height: 15px;
+    line-height: 30px;
+    border-radius: 50% !important;
+    text-align: center;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: unset;
+    cursor: pointer;
+    background-color: #fff;
+    background-clip: unset;
+    border-top: 0;
+    border-bottom: 0;
+    opacity: .5;
+    transition: opacity .6s ease;
+    opacity: 1;
+    
+}
+.open{
+    font-weight: 400;
+}
+#btn-3{
+    background-color: black;
+    color: white;
+    border-radius: 20px 20px 20px 20px;
+    padding: 6px 20px 6px 20px;
+    font-size: 12px;
+    margin-top: 12px;
+    
+}
+#btn-3:hover{
+    background-color: white;
+    color: black;
+}
+#btn-4{
+    background-color: white;
+    border-radius: 20px 20px 20px 20px;
+    margin-left: 10px;
+    padding: 6px 20px 6px 20px;
+    font-size: 12px;
+    margin-top: 12px;
+}
+#btn-4:hover{
+    background-color: black;
+    color:white;
+}
+
+#top{
+    margin-top: 170px;
+}
+#asset{
+    margin-top: 100px;
+    margin-left: 35px;
+}
+#black{
+    background-color: black;
+}
+#red{
+    width: 300px;
+    height: 195px;
+    
+}
+#yellow{
+    width: 130px;
+    height: 195px;
+}
+.to{
+  
+  margin-top: -170px;
+  
+}
+.from{
+    color: white;
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.one{
+    font-weight: bolder;
+    color: white;
+    display: flex;
+    justify-content: center;
+ 
+
+}
+.acc-ount{
+    color: white;
+    display: flex;
+    justify-content: center;
+   
+}
+.zero{
+    color: white;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+  
+}
+.spr{
+    color: white;
+    display: flex;
+   text-align: center;
+   justify-content: center;
+}.to-1{
+   
+   margin-top: -150px;
+    margin-left: -40px;
+}
+.lever{
+    color:rgba(255, 199, 40, 1) ;
+}
+.ipsum{
+    color: rgba(113, 113, 113, 1);
+font-size: 13px;
+
+}#black{
+    background-color: black;
+}
+#purble{
+    width: 193px;
+    height: 170px;
+}
+#white{
+   
+    width: 210px;
+    height: 170px;
+}
+.to-3{
+   margin-top: -170px;
+}
+.on{
+    font-weight: bolder;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+#up{
+    margin-top: -30px;
+}
+.to-4{
+   margin-top: -150px;
+   margin-left: -45px;
+}
+.zero-1{
+    display: flex;
+    justify-content: center;
+    padding-top: 13px;
+}
+.hund{
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+}
+.sp{
+    
+    display: flex;
+    justify-content: center;
+}
+.para{
+    display: flex;
+    justify-content: center;
+    color:white;
+    opacity: .8;
+}
+.title{
+    color:rgba(255, 214, 72, 1) ;
+    display: flex;
+    justify-content: center;
+}
+.para-1{
+    display: flex;
+    justify-content: center;
+    color:rgba(76, 73, 74, 1);
+    text-align: center;
+    color:white;
+    opacity: .8;
+    
+}
+#phone{
+    height: 480px;
+   
+}
+#dot{
+    width: 50px;
+}
+.easy{
+    color:rgba(255, 214, 72, 1)  ;
+    margin-top: 6px;
+    margin-left: -30px;
+}
+.ya{
+   margin-left: 10px;
+   margin-top: 10px !important;
+   font-size: 20px;
+   color: rgba(129, 126, 125, 1);
+}#pho{
+    margin-top: 100px;
+}
+#circle-yellow{
+    width: 200px;
+    position: relative;
+}
+.simple{
+    font-weight: bolder;
+    color: white;
+    display: flex;
+    justify-content: center;
+}.num-center{
+    font-weight: bolder;
+    color: white;
+    position: absolute;
+    padding-top: 90px;
+}.reg{
+    color:rgba(255, 214, 72, 1) ;
+    display: flex;
+    justify-content: center;
+}
+.fill{
+    color: rgba(110, 106, 106, 1);
+    text-align: center;
+}#line{
+    width: 150px;
+}#yel{
+    width: 315px;
+    height: 170px;
+    background-color:rgba(252, 194, 6, 1) ;
+    
+}
+#black-box{
+   
+    width: 315px;
+    height: 170px;
+    box-shadow: 0px 0px 15px 7px rgba(255, 214, 72, 1) ;
+}.quick{
+    font-size: 15px;
+    font-weight: bold;
+    color: #000;
+    padding-top: 55px;
+}
+.setting{
+    font-size: 14px;
+
+}.quick-1{
+    font-size: 15px;
+    font-weight: bold;
+    color:white;
+    padding-top: 55px;
+}
+.setting-1{
+    font-size: 14px;
+    color:white;
+}.plat{
+    font-weight: bolder;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+
+}.use{
+    font-size: 15px;
+    color: rgba(115, 112, 111, 1);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  
+}
+#mac{
+    width: 500px;
+}
+#window{
+    height: 100px;
+    margin-top: 10px;
+}
+.dow{
+    font-size: 14px;
+}
+.win{
+    font-size:20px;
+    font-weight: bolder;
+}
+#bt{
+    border-radius: 20px 20px 20px 20px ;
+    background-color:rgba(254, 196, 0, 1);
+    font-weight: bold;
+    font-size: 15px;
+}
+#bt:hover{
+    background-color: black;
+    color: white;
+}
+#upi{
+    height: 35px !important;
+}
+
+#padding{
+    padding-top: 40px;
+}
+#back-1{
+    background-image: url('../Assets/Home page/divio.png');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 150px;
+}
+.lof{
+    font-weight: bolder;
+         padding-top: 40px;
+}
+.daily{
+    font-size: 15px;
+}
+#Aca-logo{
+    background-color: black;
+    color: rgba(254, 196, 0, 1);
+    margin-top: 50px;
+    border-radius: 20px 20px 20px 20px;
+}
+#Aca-logo:hover{
+    background-color: transparent;
+    color: black;
+    border: 2px solid black ;
+}
+#move-phone{
+    padding-top: 70px;
+}#Acc-lever{
+    padding-top: 35px;
+}
+.line-yell
+{
+    height: 7px;
+    margin-top: 65px;
+    margin-left: -65px;
+}
+
+/*About*/
+#ava{
+    padding-top: 210px;
+}
+.About-Logo{
+    color: rgba(255, 193, 34, 1);
+    font-weight: bolder;
+}
+.logo-leadr{
+    color: rgba(157, 157, 157, 1);
+    font-size: 14.5px;
+}
+#btn-5{
+    background-color:rgba(255, 193, 34, 1);
+    color:black;
+    border-radius: 20px 20px 20px 20px;
+    padding: 6px 20px 6px 20px;
+    font-size: 12px;
+    margin-top: 12px;
+    font-weight: 700;
+}#btn-5:hover{
+    background-color: white;
+
+}#btn-6:hover{
+    
+    background-color:rgba(255, 193, 34, 1);
+}
+#btn-6{
+    background-color: white;
+    border-radius: 20px 20px 20px 20px;
+    margin-left: 10px;
+    padding: 6px 20px 6px 20px;
+    font-size: 12px;
+    margin-top: 12px;
+    font-weight: 700;
+}
+#Group-97014{
+    height: 270px;
+    filter: drop-shadow(.75em .75em 4.75em rgba(255, 193, 34, 1 ));
+}
+.trust{
+    color: rgba(255, 192, 35, 1);
+    font-weight: bolder;
+    display: flex;justify-content: center;
+    padding-top: 30px;
+}
+.we-only{
+    color: rgba(157, 157, 157, 1);
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+}#cd{
+    background-color: black;
+    box-shadow: 0px 0px 12px 4px rgba(255, 192, 35, 1) ;
+}
+#move-padding{
+    margin-top: 150px;
+}
+#back-2{
+    background-image: url('../Assets/About page/Rectangle 123.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 450px;
+}
+#dolor{
+    width: 27px !important;
+}
+.every{
+    color: rgba(228, 180, 25, 1);
+    padding-top: 40px;
+}
+.well-establish{
+    font-weight: bolder;
+    color: white;
+}
+.prov-with{
+    color: rgba(231, 219, 218, 1);
+    margin-left: -45px;
+}
+.regular{
+    color: rgba(255, 199, 38, 1);
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}#golden-card{
+   
+    height: 560px;
+
+}.two{
+   font-size: 130px;
+   color: rgba(202, 172, 88, 1);
+   opacity: .5;
+}
+.Grenadines{
+    font-size: 16px;
+   
+    padding-left: 35px;
+    color: #000;
+    font-weight: bolder;
+}
+
+.limited{
+    font-size: 16px;
+    padding-top: 15px;
+    padding-left: 35px;
+    opacity: .9;
+}.Adddress{
+    font-size: 16px;
+    padding-left: 35px;
+    opacity: .9;
+}
+#view{
+    background-color: transparent;
+    border: 2px solid rgba(210, 164, 7, 1);
+    color: rgba(210, 164, 7, 1);
+    margin-left: 35px;
+}
+#view:hover{
+    background-color: rgba(210, 164, 7, 1);
+    color: #000;
+}
+.you-trust{
+    color: rgb(216, 171, 20);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 18px;
+}
+.tarde-forex{
+    font-weight: bolder;
+    color: rgba(255, 199, 40, 1);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+.forex-market{
+    
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: gainsboro;
+
+}
+.prov-with-1{
+    color: rgba(255, 199, 40, 1);
+    margin-left: -65px;
+    font-weight: bolder;
+}.forward{
+    margin-left: -65px;
+    color:rgba(157, 157, 157, 1);
+    font-size: 15px;
+}
+#hid{
+    
+    border: 2px solid rgba(255, 199, 40, 1);
+    background-color: black;
+    border: li;
+    color: white;
+}
+.accordion-button::after {
+    flex-shrink: 0;
+    width: 1.25rem;
+    height: 1.25rem;
+    margin-left: auto;
+    content: "";
+    background-image:url('../Assets/About page/rtyu.png') !important;
+    background-repeat: no-repeat;
+    background-size: 1.25rem;
+    transition: transform .2s ease-in-out;
+}
+.accordion-button:not(.collapsed)::after {
+    background-image:url('../Assets/About page/-9.png') !important;
+    transform: none !important;
+}
+.accordion-body{
+    background-color: rgba(255, 199, 40, 1);
+}
+.accod{
+    text-align: start; 
+}
+
+/*trader*/
+
+
+.trade-reliable{
+    font-weight: bolder;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: rgba(255, 255, 255, 1);
+    
+}
+.dolor-sit{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    color: rgba(128, 128, 128, 1);
+}
+#tap-phone{
+    max-width: 80%;
+  
+}
+.meta-trade{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: rgba(255, 192, 34, 1);
+    font-weight: bolder;
+}
+.mac-pc{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color:white ;
+    opacity: .8;
+    font-size: 18px;
+}
+.million-trade{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color:rgba(128, 128, 128, 1) ;
+    font-size: 13px;
+}
+#dolor-1{
+    width: 25px !important;
+}
+.prov-with-2{
+    color: rgba(231, 219, 218, 1);
+    margin-left: -45px;
+    padding-top: 5px;
+}
+#tick{
+    padding-top: 40px;
+}
+#tap{
+    padding-top: 70px;
+    max-width: 65%;
+}
+#pc{
+    background-color: rgba(255, 193, 34, 1);
+    color: #000;
+border-radius: 5px;
+}#pc:hover{
+    background-color:transparent ;
+    color:rgba(255, 193, 34, 1) ;
+    border: 2px solid rgba(255, 193, 34, 1);
+}
+#mac-but{
+    background-color: transparent;
+    color:rgba(255, 193, 34, 1) ;
+    border: 2px solid rgba(255, 193, 34, 1);
+    margin-left:20px ;
+    border-radius: 5px;
+}
+#mac-but:hover{
+    background-color: rgba(255, 193, 34, 1);
+    color: #000;
+}
+#yello-back{
+    background-image: url('../Assets/Traders page/Rectangle 24.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+}
+#google{
+    height: 20px;
+}
+#men{
+    width: 135px;
+    height: 100px;
+    background-color: #000;
+    padding: 0px 0px 0px 0px;
+}
+.cal{
+   padding-top: 20px;
+   font-weight: bolder;
+   color: white;
+
+   
+}
+.input-group {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    width: 100%  !important;
+    margin-top: -10px;
+}
+
+.ls-up{
+    
+    
+    width: 200px !important;
+    background-color:rgba(255, 193, 34, 1);
+    height: 77px !important;
+    padding: 0px 10px 0px 10px;
+  
+}.if-u{
+    font-size: 10px;
+    color: white;margin-top: -20px;
+    font-weight: bolder;
+}
+#open-acc{
+    border: 1px solid white;
+    color: white;
+    font-weight: 700;
+    padding: 8px 30px 8px 30px;
+    text-align: center;
+}#open-acc:hover{
+    background-color: black;
+
+}.decimal{
+    font-weight: lighter;
+    color: white;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 70px;
+}.point{
+    text-align: center;
+    font-size: 50px;
+    color: rgba(12, 191, 52, 1);
+    display: flex;
+    justify-content: center;
+}
+#two-phone{
+    width: 370px;
+}
+.meta-5{
+    color: rgba(255, 192, 35, 1);
+    font-weight: bolder;
+   
+    text-align: center;
+}
+.prov-with-3{
+    font-size: 20px;
+    color: white;
+    
+}#mo-pa{
+    padding-left: 35px;
+}
+
+
+/*platform*/
+.reg-1{
+    color:white ;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+}
+.lo-1{
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: rgba(255, 199, 40, 1);
+}
+.our-win{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color:rgba(231, 219, 218, 1) ;
+}
+#component-1{
+    width: 800px;
+}#back-5{
+    background-image: url('../Assets/Platform page/Curved UI Render.png');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 150px;
+        background-color: #000;
+        
+}
+.key-feature{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color:rgba(255, 199, 40, 1) ;
+    background-color: #000;
+ font-weight: bolder;
+}
+.enhanced{
+    display: flex;
+    justify-content: center;
+    
+}
+.Asset-classes{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color:rgba(255, 199, 40, 1) ;
+    font-weight: bolder;
+}
+.Access-stocks{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color:rgba(231, 219, 218, 1) ;
+    font-weight: lighter;
+    font-size: 20px;
+}
+#pc-1{
+    background-color: rgba(255, 193, 34, 1);
+    color: #000;
+border-radius: 5px;
+}#pc-1:hover{
+    background-color:transparent ;
+    color:rgba(255, 193, 34, 1) ;
+    border: 2px solid rgba(255, 193, 34, 1);
+}
+#mac-but-1{
+    background-color: transparent;
+    color:rgba(255, 193, 34, 1) ;
+    border: 2px solid rgba(255, 193, 34, 1);
+    margin-left:20px ;
+    border-radius: 5px;
+}
+#mac-but-1:hover{
+    background-color: rgba(255, 193, 34, 1);
+    color: #000;
+}
+#back-6{
+    background-image: url('../Assets/Platform page/Curved\ UI\ Render2.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250px;
+}
+.read-get{
+    font-weight: bolder;
+    color: rgba(0, 0, 0, 1);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 55px;
+    font-size: 35px;
+}
+.an-acc{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color:#000;
+    font-size: 23px;
+}
+#open-black{
+    background-color: #000;
+    color: white;
+    font-weight: bolder;
+    font-size: 25px;
+   
+   
+}
+#open-black:hover{
+    background-color:white;
+    color:black;
+    font-weight: bolder;
+    font-size: 25px;
+    border: 2px solid black;
+   
+   
+}
+
+/*contact*/
+
+#back-7{
+    background-image: url('../Assets/Contact page/Rectangle 19536.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250px;
+    
+   margin-top: 200px;
+   
+}
+.get-us{
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 60px;
+    padding-top: 55px;
+}
+.lorem-ame{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 15px;
+}
+#all-icon{
+    width: 23px;
+    margin-top: -175px;
+    margin-left: 99.2%;
+    
+}
+.cust-ser{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: rgba(255, 198, 39, 1);
+    font-weight: bolder;
+}
+.hr-hr{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    opacity: .6;
+   
+}
+#back-8{
+    background-image: url('../Assets/Contact page/Rectangle 19540.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 450px;
+}.our-aim{
+    color: white;
+
+}.prov-with-4{
+    color: white;
+    opacity: .9;
+    margin-left: -45px;
+    
+    font-size: 14px;
+}
+.prov-with-44{
+    color: white;
+    opacity: .9;
+    margin-left: -45px;
+    
+    font-size: 15px;
+}
+.reach-out{
+    font-weight: bolder;
+    color: rgba(255, 198, 39, 1);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#loc{
+    width: 30px;
+}
+.Office-Location{
+    font-weight: bolder;
+    color: white;
+}
+.suite-s{
+    color: white;
+    opacity: .5;
+}
+#sum-btn{
+    
+    font-size: 15px;
+    background-color:rgba(255, 198, 39, 1);
+    font-size: 15px;
+}#int{
+    background-color: transparent;
+}
+
+
+/*account*/
+.dol-sim{
+    color:rgba(255, 198, 39, 1) ;
+    font-size: 20px;
+    font-weight: bolder;
+}.dol-sim-1{
+    color:black ;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.table-1 thead tr th{
+   color: white;
+    border: 1px solid white;
+   opacity: 1;
+   background-color: rgba(255, 198, 39, 1);
+  
+  width: 150px;
+  
+ 
+
+}
+
+.mini{
+    font-size: 10px;
+}
+.do-ten{
+    font-size: 40px;
+    font-weight: bolder;
+    color: rgba(253, 195, 8, 1);
+}.do-ten-1{
+    font-size: 35px;
+    font-weight: bolder;
+    
+    color: rgba(253, 195, 8, 1);
+}.do-ten-2{
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgba(253, 195, 8, 1);
+}.do-ten-3{
+    font-size: 30px;
+    font-weight: bolder;
+    color: black;
+}
+.vii{
+    padding-top: 10px !important;
+    font-size: 28px !important;
+    font-weight: bolder !important;
+    background-color: #000 !important;
+   
+    text-align: center;
+    font-weight: bolder;
+    width: 200px !important;
+    border: none !important;
+    color: rgba(253, 195, 8, 1) !important;
+}.vi{
+   
+    font-weight:  bolder;
+    padding-top: 10px !important;
+    text-align: center;
+    background-image: linear-gradient(140deg,rgba(255, 199, 40, 1), rgba(155, 128, 35, 1),rgba(2, 6, 8, 1));
+    
+}.vi-1{
+   font-size: 15px !important;
+   padding-top: 10px !important;
+    font-weight:  bolder;
+    text-align: center;
+width: 150px !important;
+background-image: linear-gradient(140deg,rgba(255, 199, 40, 1), rgba(155, 128, 35, 1),rgba(2, 6, 8, 1));
+
+}.vi-2{
+    font-size: 15px !important;
+    padding-top: 10px !important;
+     font-weight:  bolder;
+     text-align: center;
+ width: 150px !important;
+ background-image: rgba(255, 199, 40, 1);
+ color: #000 !important;
+
+ }
+.a-t{
+    font-size: 40px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-weight: bolder;
+}
+.table-1 tbody .tr td{
+    border: 1px solid white;
+   
+}
+.Aus-1{
+    
+    text-align: center;
+    background-color: rgba(255, 212, 1, 1);
+    font-size: 13px;
+}.Aus-4{
+    border: none !important;
+}
+.Aus-2{
+    padding: 12px 26px 10px 35px !important;
+    text-align: center;
+    color:rgba(255, 212, 1, 1) ;
+    font-size: 11px;
+}
+.Aus-3{
+    padding: 12px 26px 10px 35px !important;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+}.Aus-5{
+    padding: 12px 26px 10px 35px !important;
+}#bn-1{
+    background-color: rgba(255, 212, 1, 1);
+    border-radius: 20px 20px 20px 20px !important;
+    font-size: 7px;
+    font-weight: bolder;
+}#bn-1:hover{
+    background-color: white;
+    border-radius: 20px 20px 20px 20px !important;
+    font-size: 7px;
+    font-weight: bolder;
+}
+#mark{
+    padding-top: 200px;
+}
+.see-shy{
+    color: rgba(255, 198, 39, 1);
+    font-size: 40px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 50px;
+}
+.qu{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: rgba(174, 174, 174, 1);
+    font-size: 16px;
+    
+}
+#trad-bus{
+    width: 100px;
+    padding-top: 25px;
+}#trad-bus-1{
+    width: 135px;
+    padding-top: 50px;
+}
+#acc-sec{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+    opacity: .6;
+   
+}#shaw{
+    background-color: #000;
+    box-shadow: 0px 0px 25px 16px rgba(119, 71, 2, 1) ;
+}#acc-sec-1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+    font-size: 19px;
+   opacity: .6;
+}
+
+/*crypto*/
+.in-on{
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    color:white;
+    padding-top: 20px;
+    text-align: center;
+    font-weight: bolder;
+   
+   
+}.reliab{
+    display: flex;
+    justify-content: center;
+    font-size: 13px;
+    color:white;
+    text-align: center;
+    padding-top: 10px;
+}
+.Trade-currencies{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: rgba(210, 163, 6, 1);
+    font-size: 17px;
+    margin-top: 150px;
+}.what-is{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+}.digi-cry{
+    display: flex;
+    justify-content: center;
+    text-align: start;
+    color: white;
+    font-size: 16px;
+    opacity: .6;
+}
+.how-to{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: rgba(210, 163, 6, 1);
+    font-size: 30px;
+    font-weight: bolder;
+    
+}
+.huge{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 17px;
+    opacity: .6;
+}
+#ful-yel{
+    background-color: rgba(255, 193, 34, 1);
+    width: 419px;
+    height: 210px;
+}
+#ful-bl{
+    width: 425px;
+    height: 210px;
+    color: #000;
+    box-shadow: 0px 0px 20px 10px rgba(255, 193, 34, 1);
+}.yel-one{
+    padding-top:40px;
+  font-weight: bolder;
+    font-size: 30px;
+    color: #000;
+}.art{
+    font-size: 15px;
+    font-weight: bolder;
+    color: #000;
+}.re-profie{
+    font-size: 13px;
+    color: #000;
+
+}.yel-two{
+    padding-top:40px;
+  font-weight: bolder;
+    font-size: 30px;
+    color:white;
+}.art-1{
+    font-size: 15px;
+    font-weight: bolder;
+    color:white;
+}.re-profie-1{
+    font-size: 13px;
+    color: white;
+
+}#v-trad{
+    padding-top: 25px;
+}
+#cd-gradien{
+    border-radius: 10px;
+    background-image: linear-gradient(140deg,rgba(255, 199, 39, 1),rgba(186, 147, 33, 1),
+    rgba(133, 106, 29, 1),rgba(91, 74, 24, 1));
+}
+#ellipse{
+width: 80px;
+height: 80px;
+margin-top: -40px;
+
+}#ca-ne{
+    margin-top: -30px;
+    
+}
+/*crypto*/
+.table thead{
+    background-color:rgba(253, 195, 7, 1); 
+}
+.table thead tr th{
+    color: black;
+    border: 1px solid white;
+   opacity: 1;
+   
+   vertical-align: top;
+
+}
+.table tbody tr td{
+    font-weight: normal;
+    color: white;
+    opacity: .6;
+    background-color: transparent;
+    border: 1px solid white;
+}
+
+.on-global{
+    margin-top: 150px;
+    font-size: 18px;
+    color:rgba(255, 193, 34, 1) ;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.indices{
+    font-size: 35px;
+    color:rgba(255, 193, 34, 1) ;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-weight: bolder;
+}
+.client-to{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    padding-top: 30px;
+    opacity: .6;
+}.cfd-clients{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    opacity: .6;
+}
+.major-trade{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    opacity: .6;
+}.pro-bro{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    opacity: .6;
+}
+.marine{
+    font-size: 35px;
+    color:rgba(255, 193, 34, 1) ;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 120px;
+}.off-marien{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    opacity: .6;
+}
+/*forex*/
+
+.digi-cry-1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    opacity: .6;
+}
+#back-9{
+    background-image: url('../Assets/Product page/assets/Rectangle\ 19504.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 450px;
+}
+.pip-for{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+   margin-top: -135px;
+   font-weight: bolder;
+   font-size: 15px;
+}.pip-have{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 13px;
+}
+/*trading*/
+.com-tru{
+    margin-top: 150px;
+    color:rgba(255, 193, 34, 1) ;
+}
+#dot-ellips-1{
+    width: 10px;
+    height: 10px;
+    
+    
+}.com-tru-1{
+    color: white;
+    font-weight: bolder;
+}
+.com-tru-2{
+    margin-left: 25px;
+    margin-top: -23px;
+    color: white;
+   opacity: .8;
+}
+@media (max-width:540px){
+    #all-icon{
+        width: 23px;
+        margin-top: -175px;
+        margin-left: 96%;
+        
+    }
+
+    /*home*/
+    #navbarSupportedContent {
+        margin-left: 10px;
+    }
+    #back{
+        background-image: url('../Assets/Home page/divio.png');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 700px;
+    }
+    #asset{
+        margin-top: 50px;
+        margin-left: 0px;
+    }
+    #top{
+      margin-left: 10px;
+    }
+    .to-1{
+   
+        margin-top: -150px;
+         margin-left: 0px;
+     }
+     .to-4{
+        margin-top: -150px;
+        margin-left: 0px;
+     }.easy{
+        color:rgba(255, 214, 72, 1)  ;
+        margin-top: 6px;
+        margin-left: 0px;
+    }
+ 
+   #upi{
+    width: 35px !important;
+}
+#back-1{
+    background-image: url('../Assets/Home page/divio.png');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 300px;
+}
+.line-yell
+{ 
+    
+    height: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+/*About*/
+
+#Group-97014{
+    padding-top: 10px;
+}
+#ava{
+    padding-top: 110px;
+}
+.prov-with{
+    color: rgba(231, 219, 218, 1);
+    margin-left: 0px;
+}
+#back-2{
+    background-image: url('../Assets/About page/Rectangle 123.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.prov-with-1{
+    color: rgba(255, 199, 40, 1);
+    margin-left: -15px;
+    font-weight: bolder;
+}
+.forward{
+    margin-left: -15px;
+    color: rgba(157, 157, 157, 1);
+
+    font-size: 15px;
+}
+/*trader*/
+#tap{
+    padding-top: 70px;
+    max-width: 100%;
+}
+#tap-phone{
+    max-width: 100%;
+  
+}
+
+.prov-with-2{
+    color: rgba(231, 219, 218, 1);
+    margin-left: 0px;
+    padding-top: 5px;
+}
+#pc{
+    background-color: rgba(255, 193, 34, 1);
+    color: #000;
+    font-size: 11px;
+
+}
+#mac-but{
+    background-color: transparent;
+    color:rgba(255, 193, 34, 1) ;
+    border: 2px solid rgba(255, 193, 34, 1);
+    margin-left:20px ;
+    font-size: 11px;
+}
+#yello-back{
+    background-image: url('../Assets/Traders page/Rectangle 24.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+#mo-pa{
+    padding-left: 0px;
+}
+/*platform*/
+#back-5{
+    background-image:none;
+    background-color:rgba(255, 199, 40, 1) !important ;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 250px;
+        background-color: #000;
+        
+}
+#pc-1{
+    background-color: rgba(255, 193, 34, 1);
+    color: #000;
+    font-size: 13px;
+
+}
+#mac-but-1{
+    background-color: transparent;
+    color:rgba(255, 193, 34, 1) ;
+    border: 2px solid rgba(255, 193, 34, 1);
+    margin-left:20px ;
+    font-size: 13px;
+}
+#back-6{
+    background-image: url('../Assets/Platform page/Curved\ UI\ Render2.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 310px;
+}
+/*contact*/
+.get-us{
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 55px;
+}
+#back-8{
+    background-image: url('../Assets/Contact page/Rectangle 19540.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.prov-with-4{
+    color: rgba(231, 219, 218, 1);
+    margin-left: 0px;
+    padding-top: 0px;
+    font-size: 14px;
+}
+.prov-with-44{
+    color: rgba(231, 219, 218, 1);
+    margin-left: 0px;
+    padding-top: 0px;
+    font-size: 14px;
+}
+#phob{
+    padding-top: 10px;
+}
+
+/*account*/
+#shaw{
+    background-color: #000;
+    box-shadow: 0px 0px 25px 16px rgba(119, 71, 2, 1) ;
+    margin-top: 35px;
+}
+/*forex*/
+#back-9{
+    background-image: url('../Assets/Product page/assets/Rectangle\ 19504.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.pip-for{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+   margin-top: -175px;
+   font-weight: bolder;
+   font-size: 20px;
+}.pip-have{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+   
+}
+#cd-gradien{
+    border-radius: 10px;
+    background-image: linear-gradient(140deg,rgba(255, 199, 39, 1),rgba(186, 147, 33, 1),
+    rgba(133, 106, 29, 1),rgba(91, 74, 24, 1));
+    margin-top: 55px;
+}
+.see-shy{
+    color: rgba(255, 198, 39, 1);
+    font-size: 25px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 50px;
+}
+.meta-trade{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: rgba(255, 192, 34, 1);
+    font-weight: bolder;
+    font-size: 25px;
+}
+.lorem-ame{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 13px;
+}
+.million-trade{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color:rgba(128, 128, 128, 1) ;
+    font-size: 11px;
+}
+.ya{
+    font-size: 18px;
+}
+}
+
+.navbar-toggler {
+    padding: 0.25rem 0.75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: black !important;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    transition: box-shadow .15s ease-in-out;
+}
+.fas {
+    font-weight: 900;
+    font-size: 30px;
+    color:rgba(252, 194, 6, 1) ;
+}
+#gg{
+    width: 20px;
+    margin-left: 10px;
+}
+.fa-brands{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#dr{
+    margin-top: -10px;
+}
+  #dropdownMenuButton2{
+    background-color:white;
+    padding: 5px 10px 5px 10px;
+    color: black;
+    font-size: 15px;
+  }
+
+  #drop-googlr{
+    width: 13px;
+    margin-left: 60px;
+  }
+ #t-o{
+    margin-top: 40px !important;
+ }
+#quest{
+    background-color:rgba(252, 194, 6, 1) ;
+    color: #000;
+   margin-left: 5px;
+border-radius: 50%;
+padding: 2px 4px 2px 4px;
+font-weight: bolder;
+}
+.sm{
+    display: flex;
+    justify-content: center;
+    margin-top: -25px;
+    font-size: 12px;
+    color: black;
+    font-weight: bold;
+}
